@@ -1,0 +1,10 @@
+{
+    "id": "embed-images-into-note",
+    "name": "Embed Images Into Note",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "Right-click a note to batch convert all attached image links into inline base64 data URLs directly within the markdown file.",
+    "author": "Chris Boissonnault",
+    "authorUrl": "",
+    "isDesktopOnly": false
+}
