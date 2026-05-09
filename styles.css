@@ -1,0 +1,10 @@
+/* Responsive styling for embedded base64 images in Reading and Live Preview modes */
+.markdown-preview-view img[src^="data:image"],
+.markdown-rendered img[src^="data:image"] {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
